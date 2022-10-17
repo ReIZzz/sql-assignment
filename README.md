@@ -32,3 +32,9 @@
 #### Примечание
 
 Желательно разработку SQL запроса выполнять для PostgreSQL и не использовать функции из диалектов другиз баз данных. Если это невозможно, то при сдаче задания необходимо предупредить об этом.
+
+
+# Результат выполнения
+
+- [DDL и DML запрос](https://github.com/ReIZzz/sql-assignment/blob/main/result%20DDL%20DML.sql)
+- Результат выполнения запроса в табличном виде ([CSV](https://github.com/ReIZzz/sql-assignment/blob/main/report_csv.csv) или [XLS](https://github.com/ReIZzz/sql-assignment/blob/main/report_xlsx.xlsx))
